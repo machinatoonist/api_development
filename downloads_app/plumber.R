@@ -29,7 +29,6 @@ get_cran_data <- function(package = "dplyr", start = "2011-01-01",
   return(data_prepared_tbl)
 }
 
-get_cran_data
 
 # 3.0 ENDPOINTS ----
 
