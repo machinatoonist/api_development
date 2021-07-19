@@ -49,7 +49,7 @@ function(package = "dplyr", start = "2011-01-01",
   list(
     data = get_cran_data(package, start, end, by)
     )
-  }
+}
 
 #  * /cran/timeplot ----
 
